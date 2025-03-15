@@ -1,0 +1,13 @@
+                Git - For local Stroage 
+                GitHub - platform (An central data manage and stroaging)
+
+. Setup & Configuration
+git config --global user.name "Your Name"
+→ Set your username for Git.
+git config --global user.email "your-email@example.com"
+→ Set your email for Git.
+git config --list
+→ Show all current Git configurations.
+
+git init          --- Create An Repo For Git (for management config)
+
